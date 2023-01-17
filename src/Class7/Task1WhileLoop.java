@@ -3,16 +3,22 @@ package Class7;
 public class Task1WhileLoop {
     public static void main(String[] args) {
 
-        boolean workDay= true;
+      /*   Create a boolean variable workDay and assign true
+        create int variable day and assign it to 1
+        As long as it is workDay print “I need a day off” and increase day.
+                Once day is 6 print “I do not need a day off anymore”
+     */
+
+        boolean workDay = true;
         int day = 1;
-        while (workDay){
-            if(day <=5){
+        while (workDay) {
+            if (day <= 5) {
                 System.out.println("I need a day off");
-            }else{
+            } else {
                 System.out.println("I do not need a day off anymore");
-                workDay=false;
+                workDay = false;
             }
-            day++;
+            day++;  // it is equal to day=day+1 day+=1
         }
     }
 }

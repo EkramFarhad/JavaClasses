@@ -2,8 +2,8 @@ package Class5;
 
 public class SwitchCaseDemo4 {
     public static void main(String[] args) {
-        String day="Tuesday";
-        switch (day){
+        String day = "Tuesday";
+        switch (day) {
             case "Monday":
                 System.out.println("1");
                 break;

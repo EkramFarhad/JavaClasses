@@ -4,14 +4,19 @@ public class ForLoops1 {
     public static void main(String[] args) {
 
 
-        //1 2 4 5 7 8 10 1 13 14 16 17 19
-
-        for (int i = 0; i < 20; i++){
-            if(i%3!=0){
+        // using a for loop print odd numbers from 1 to 20;
+        for (int i = 0; i < 20; i++) {
+            if (i % 2 != 0) { // checking if a number is odd number
                 System.out.println(i);
             }
-        }
 
         }
+
+
+        System.out.println("***********");
+        for (int i = 1; i < 20; i += 2) {
+            System.out.println(i);
+        }
     }
+}
 

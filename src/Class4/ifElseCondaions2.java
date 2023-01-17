@@ -3,23 +3,25 @@ package Class4;
 public class ifElseCondaions2 {
 
     public static void main(String[] args) {
-        boolean rain = true;
+        boolean rain = false;
 
         if (rain) {
-            System.out.println("lts take the umbrella");
+            System.out.println("Lets take the umbrella ");  //Plan A
         } else {
-            System.out.println("lest just take the hat");
+            System.out.println(" Lets just take the hat");  //Plan B
         }
 
-
+        // create a boolean variable call it break if it contains true print  lets take the break otherwise
+        // it should print lets continue the class
         boolean breakTime = true;
+        //break till 11:50
 
-        if(breakTime){
-            System.out.println("let's take the break.");
-        }else {
-            System.out.println("let's continue the class");
+        if (breakTime) {
+            System.out.println("Let's go on break");
+        } else {
+            System.out.println("Let's continue the class");
         }
-    }
 
+    }
 }
 

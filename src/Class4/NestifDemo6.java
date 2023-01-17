@@ -11,7 +11,7 @@ public class NestifDemo6 {
             if (mood) {
                 System.out.println("Lets go to shopping");
             }
-        }else{
+        } else {
             System.out.println("Lets save some money first");
         }
     }
