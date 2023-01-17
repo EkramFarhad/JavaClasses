@@ -2,18 +2,20 @@ package Class9;
 
 public class ArraysDemo5 {
     public static void main(String[] args) {
+        int number = 10;
+        int[] numbers = new int[5]; // an empty array of size 5 will be created
+        // 5 is the size
+        numbers[0] = 50;
+        numbers[1] = 30;
+        numbers[2] = 55;
+        numbers[3] = 60;
+        numbers[4] = 52;
+        for (int i = 0; i < numbers.length; i++) {
+            System.out.println(numbers[i]);
+        }
 
-//       int num =10;
-//       int[0]num= new int[5];
-//       num[]=50;
-//       num[]=50;
-//       num[]=50;
-//       num[]=50;
-//       num[]=50;
 //
-//       for(int i = 0;i <num.length;i++){
-//           System.out.println(num[i]);
-       }
     }
+}
 
 
