@@ -14,7 +14,6 @@ public class ArraysDemo5 {
             System.out.println(numbers[i]);
         }
 
-//
     }
 }
 

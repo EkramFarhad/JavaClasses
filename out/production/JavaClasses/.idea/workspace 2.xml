@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b3516a8-8103-4c00-a112-9019c7b6aec8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ArrayDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/D2Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/D2ArraysDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ForEachLoopDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ForEachLoopDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ForEachLoopDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ForEachLoopDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class10/ScannerAndArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/CatTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/D2Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/DogTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class11/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Exercise/ArrayExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ArrayDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/D2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/D2ArraysDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ForEachLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ForEachLoopDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ForEachLoopDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ForEachLoopDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class10/ScannerAndArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/D2Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class11/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/ComputerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/CredentialChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/InClassTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class12/StringDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/ReplaceAllMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/ReplaceMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/SplitMEethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/StringRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/StringVsStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class13/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/ArrayAddMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/MathTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/MethodTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/MethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/MethodsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/ReturnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/ReturnDemoTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class14/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MPractice3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MPractice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MethodPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MethodPractice2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MethodPracticeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/MethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class15/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class16/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/ArrayExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/ArraysDemo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/RecapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/RecapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JavaClasses/Class9/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class9/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class9/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class9/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class9/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class9/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class9/Task4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KK1WndZeibZOBwY5a3NG3wM2j4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ekramfarhad/Desktop/Syntax/JavaClasses/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3516a8-8103-4c00-a112-9019c7b6aec8" name="Changes" comment="" />
+      <created>1673708494447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673708494447</updated>
+    </task>
+    <servers />
+  </component>
+</project>
